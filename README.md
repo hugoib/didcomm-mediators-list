@@ -9,6 +9,7 @@
 | [Sirius-social/didcomm-mediator](https://github.com/Sirius-social/didcomm-mediator)     | Python   |         |
 | [input-output-hk/atala-prism-mediator](https://github.com/input-output-hk/atala-prism-mediator) | Scala    |         |
 | [decentralized-identity/didcomm-rs](https://github.com/decentralized-identity/didcomm-rs) | Rust     |         |
+| [hyperledger/aries-mediator-service](https://github.com/hyperledger/aries-mediator-service) | Typescript     |         |
 
 ## Projects that belong to a bigger hyperledger aries component
 
