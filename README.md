@@ -18,7 +18,6 @@
 | [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python/blob/main/Mediation.md) | Python |  |
 
 ## Already deployed cloud mediators
+
 https://indicio-tech.github.io/mediator/
-
-
 https://mediator.rootsid.cloud
